@@ -9,11 +9,11 @@
 
 <!-- icons -->
 <div>
-  <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2786/2786969.png" alt="html">
-  <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2786/2786979.png" alt="css">
-  <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2786/2786974.png" alt="javascript">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript">
   <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java">
-  <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" alt="c">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c">
 </div>
 
 
