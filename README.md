@@ -18,6 +18,9 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript">
   <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" >
+  <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="c#">
+          
 </div>
 
 <!-- blocos -->
