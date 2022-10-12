@@ -25,7 +25,12 @@
 </div>
 
 <!-- blocos -->
-
+<br>
+<div align="center">
+  <a href="https://github.com/SaraLopes7">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=SaraLopes7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraLopes7&layout=compact&langs_count=7&theme=midnight-purple" style="max-width: 100%;"/>
+</div>
 
 ##
 
