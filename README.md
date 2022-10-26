@@ -4,7 +4,7 @@
 
 
 - 🔭 Estou estudando Análise e Desenvolvimento de Sistemas (2/5)   
-- 🌱 Estou focada em aprender FrontEnd e pretendo dar uma mergulhada em C#    
+- 🌱 Estou focada em aprender FrontEnd e pretendo dar uma mergulhada em Python  
 - 📫 Contato profissional: sara.r.a.lopes07@gmail.com      
 - 😄 Pronouns: Ela/Dela    
 
@@ -21,6 +21,7 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" >
   <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="c#">
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
           
 </div>
 
