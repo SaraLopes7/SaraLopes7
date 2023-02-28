@@ -3,8 +3,8 @@
    <img align="right" height="200" width="200" src="https://cdn.discordapp.com/attachments/1017910135034744892/1017910186532425758/octocat-1662758848592.png" alt="Eu em polvo">
 
 
-- 🔭 Estou estudando Análise e Desenvolvimento de Sistemas (2/5)   
-- 🌱 Estou focada em aprender FrontEnd e pretendo dar uma mergulhada em Python  
+- 🔭 Estou estudando Análise e Desenvolvimento de Sistemas (3/5)   
+- 🌱 Estou focada em aprender FrontEnd, Banco de Dados, Python e C#  
 - 📫 Contato profissional: sara.r.a.lopes07@gmail.com      
 - 😄 Pronouns: Ela/Dela    
 
