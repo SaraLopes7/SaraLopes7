@@ -48,7 +48,6 @@
    <a href = "mailto:sara.r.a.lopes07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://codepen.io/Lopes7"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/sariinha.lopez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   
-   
-   ![Snake gif](https://github.com/SaraLopes7/SaraLopes7/blob/output/github-contribution-grid-snake.svg)
+
+   ![snake gif](https://github.com/SaraLopes7/SaraLopes7/blob/output/github-contribution-grid-snake.svg)
 </div>
