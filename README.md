@@ -1,6 +1,6 @@
 ## Hey, eu me chamo Sara Lopes 🤟
 
-   <img align="right" height="200" width="200" src="https://cdn.discordapp.com/attachments/1017910135034744892/1017910186532425758/octocat-1662758848592.png" alt="Eu em polvo">
+   <img align="right" height="200" width="200" src="https://lh3.googleusercontent.com/pw/AP1GczPBCFWIQipgR0AqWBM5_S-grKGwS2ackx0Dclvwxe9JmNKobUX_klAEjbZQw6Fl4F26x3N7hl72L9KLRFTH8hQbvrCMpNJ3GYyF80BOQuD4qcBEbOpMyOuZ161XwMc_qbnEFliZ_z56jgSZalBpqgcv_w=w537-h537-s-no-gm?authuser=0" alt="Eu em polvo">
 
 
 - 🔭 Estou estudando Análise e Desenvolvimento de Sistemas (3/5)   
