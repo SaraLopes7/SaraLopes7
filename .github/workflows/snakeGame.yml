@@ -23,6 +23,8 @@ jobs:
         github_user_name: SaraLopes7  # Seu usuário
         gif_out_path: dist/github-contribution-grid-snake.gif
         svg_out_path: dist/github-contribution-grid-snake.svg
+        color_snake: '#00cef5' # Cor da cobrinha 
+        #color_dots: '#00FFFF' # Cor dos quadradinhos
 
     - run: git status
 
