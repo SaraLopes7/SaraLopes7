@@ -7,8 +7,8 @@ on:
       # Será atualizado a cada 7 horas.
     - cron: "0 */7 * * *"
 
-# Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
+permissions:
+  contents: write  # Permissão para escrever no repositório
 
 # Regras
 jobs:
