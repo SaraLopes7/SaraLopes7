@@ -17,14 +17,13 @@ jobs:
     - uses: actions/checkout@v2
 
     # Gera o GIF/SVG da cobra
-    - uses: Platane/snk@master
-      id: snake-gif
+    - uses: Platane/snk/svg-only@v3
       with:
-        github_user_name: SaraLopes7  # Seu usuário
-        gif_out_path: dist/github-contribution-grid-snake.gif
-        svg_out_path: dist/github-contribution-grid-snake.svg
-        color_snake: '#00cef5' # Cor da cobrinha 
-        #color_dots: '#00FFFF' # Cor dos quadradinhos
+        github_user_name: SaraLopes7
+        outputs: |
+          dist/github-contribution-grid-snake.svg
+        color_snake: '#66ffff'
+        #color_dots: '#00FFFF,#0000FF,#FF0000,#00FF00,#FFFF00,#FFA500'
 
     - run: git status
 
