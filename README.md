@@ -59,5 +59,5 @@
 
 -->
 
-   ![Snake animation](https://github.com/SaraLopes7/SaraLopes7/blob/output/github-snake-colorful.svg)
+   ![Snake animation](https://github.com/SaraLopes7/SaraLopes7/blob/output/github-contribution-grid-snake-colorful.svg)
 </div>
