@@ -23,7 +23,7 @@ jobs:
         outputs: |
           dist/github-contribution-grid-snake.svg
           dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          dist/github-contribution-grid-snake-colorful.svg?color_snake=#16d5a1&color_dots=#280052,#a9fff6,#8bffec,#6dffe3,#4fffd9
+          dist/github-contribution-grid-snake-colorful.svg?color_snake=#16d5a1&color_dots=#280052,#00158e,#212aa7,#3dbaed,#a4ffff
         #color_snake: '#16d5a1'
         #color_dots: '#c7ffff,#a9fff6,#8bffec,#6dffe3,#c7ffff'
 
