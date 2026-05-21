@@ -1,63 +1,76 @@
-## Hey, eu me chamo Sara Lopes 🤟
-
-   <img align="right" height="200" width="200" src="https://lh3.googleusercontent.com/pw/AP1GczPBCFWIQipgR0AqWBM5_S-grKGwS2ackx0Dclvwxe9JmNKobUX_klAEjbZQw6Fl4F26x3N7hl72L9KLRFTH8hQbvrCMpNJ3GYyF80BOQuD4qcBEbOpMyOuZ161XwMc_qbnEFliZ_z56jgSZalBpqgcv_w=w537-h537-s-no-gm?authuser=0" alt="Eu em polvo">
-
-
-- 🔭 Estou estudando Análise e Desenvolvimento de Sistemas (3/5)   
-- 🌱 Estou focada em aprender FrontEnd, Banco de Dados, Python e C#  
-- 📫 Contato profissional: sara.r.a.lopes07@gmail.com      
-- 😄 Pronouns: Ela/Dela    
-
-##
-
-<!-- icons -->
-<div>
-  <h3>📚 Estou estudando: </h3>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript">
-  <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" >
-  <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="c#">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-          
-</div>
-
-<!-- blocos -->
-<br>
 <div align="center">
-  <a href="https://github.com/SaraLopes7">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=SaraLopes7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraLopes7&layout=compact&langs_count=7&theme=midnight-purple" style="max-width: 100%;"/>
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemg5cWxmd3kzdjF3c3djcDFyY2pmaHlldXoxZno4Ym54Zml0ZThqbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HBDT4QSTpveU/giphy.gif"  />
 </div>
-<!--    
+
+###
+
 <div align="center">
-  <a href="https://github.com/SaraLopes7">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=SaraLopes7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraLopes7&layout=compact&hide_border=true&title_color=purpletext_color=purple&bg_color=0d1117" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
--->
 
- ##
+###
 
-<!-- redes sociais -->
-<div>
-   <a href="https://www.linkedin.com/in/sara-r-a-lopes-98b72423a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:sara.r.a.lopes07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href = "https://codepen.io/Lopes7"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/sariinha.lopez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<h1 align="center">Hey there 👋</h1>
 
-<!--
+###
+
+<img align="right" height="200" src="https://lh3.googleusercontent.com/pw/AP1GczPBCFWIQipgR0AqWBM5_S-grKGwS2ackx0Dclvwxe9JmNKobUX_klAEjbZQw6Fl4F26x3N7hl72L9KLRFTH8hQbvrCMpNJ3GYyF80BOQuD4qcBEbOpMyOuZ161XwMc_qbnEFliZ_z56jgSZalBpqgcv_w=w537-h537-s-no-gm?authuser=0"  />
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Sara Lopes, a Data Science and AI postgraduate student passionate about machine learning, data analysis, and intelligent systems.<br><br>- 🔭 I’m currently working on data science and machine learning projects<br>- 📚 I'm currently learning reinforcement learning, deep learning, and advanced statistical modeling<br>- ⚡ In my free time I enjoy studying new technologies, gaming, and building personal projects</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SaraLopes7/SaraLopes7/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/SaraLopes7/SaraLopes7/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaraLopes7/SaraLopes7/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaraLopes7/SaraLopes7/pacman-output/bomberman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SaraLopes7/SaraLopes7/pacman-output/bomberman-contribution-graph.svg">
 </picture>
 
--->
-
-   ![Snake animation](https://github.com/SaraLopes7/SaraLopes7/blob/output/github-contribution-grid-snake-colorful.svg)  
-</div>
+###
