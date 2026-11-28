@@ -1,0 +1,1231 @@
+<svg width="1166" height="249" xmlns="http://www.w3.org/2000/svg"><desc>Generated with puzzle-bobble-contribution-graph on Sat Nov 28 2026 06:40:47 GMT+0000 (Coordinated Universal Time)</desc><rect width="100%" height="100%" fill="#ffffff"/><text x="10" y="10" text-anchor="middle" font-size="10" fill="#57606a">Nov</text><text x="32" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="54" y="10" text-anchor="middle" font-size="10" fill="#57606a">Dec</text><text x="76" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="142" y="10" text-anchor="middle" font-size="10" fill="#57606a">Jan</text><text x="164" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="230" y="10" text-anchor="middle" font-size="10" fill="#57606a">Feb</text><text x="252" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="318" y="10" text-anchor="middle" font-size="10" fill="#57606a">Mar</text><text x="340" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="428" y="10" text-anchor="middle" font-size="10" fill="#57606a">Apr</text><text x="450" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="516" y="10" text-anchor="middle" font-size="10" fill="#57606a">May</text><text x="538" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="626" y="10" text-anchor="middle" font-size="10" fill="#57606a">Jun</text><text x="648" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="714" y="10" text-anchor="middle" font-size="10" fill="#57606a">Jul</text><text x="736" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="802" y="10" text-anchor="middle" font-size="10" fill="#57606a">Aug</text><text x="824" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="912" y="10" text-anchor="middle" font-size="10" fill="#57606a">Sep</text><text x="934" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="1000" y="10" text-anchor="middle" font-size="10" fill="#57606a">Oct</text><text x="1022" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="1088" y="10" text-anchor="middle" font-size="10" fill="#57606a">Nov</text><text x="1110" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><circle cx="10" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="10" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="10" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="10" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="10" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="10" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="10" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="32" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="32" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="32" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="32" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="32" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="32" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="32" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="54" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="54" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="54" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="54" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="54" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="54" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="54" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="76" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="76" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="76" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="76" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="76" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="76" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="76" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="98" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="98" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="98" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="98" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="98" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="98" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="98" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="120" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="120" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="120" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="120" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="120" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="120" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="120" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="142" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="142" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="142" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="142" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="142" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="142" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="142" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="164" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="164" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="164" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="164" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="164" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="164" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="164" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="186" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="186" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="186" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="186" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="186" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="186" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="186" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="208" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="208" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="208" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="208" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="208" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="208" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="208" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="230" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="230" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="230" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="230" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="230" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="230" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="230" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="252" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="252" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="252" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="252" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="252" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="252" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="252" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="274" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="274" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="274" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="274" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="274" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="274" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="274" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="296" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="296" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="296" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="296" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="296" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="296" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="296" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="318" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="318" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="318" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="318" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="318" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="318" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="318" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="340" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="340" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="340" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="340" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="340" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="340" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="340" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="362" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="362" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="362" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="362" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="362" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="362" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="362" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="384" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="384" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="384" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="384" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="384" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="384" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="384" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="406" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="406" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="406" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="406" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="406" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="406" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="406" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="428" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="428" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="428" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="428" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="428" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="428" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="428" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="450" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="450" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="450" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="450" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="450" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="450" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="450" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="472" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="472" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="472" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="472" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="472" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="472" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="472" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="494" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="494" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="494" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="494" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="494" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="494" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="494" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="516" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="516" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="516" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="516" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="516" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="516" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="516" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="538" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="538" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="538" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="538" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="538" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="538" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="538" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="560" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="560" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="560" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="560" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#e74c3c;#ebedf0;#ebedf0" keyTimes="0;0.2747;1"/>
+			</circle><circle cx="560" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#e74c3c;#ebedf0;#ebedf0" keyTimes="0;0.2747;1"/>
+			</circle><circle cx="560" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#e74c3c;#ebedf0;#ebedf0" keyTimes="0;0.2747;1"/>
+			</circle><circle cx="560" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#e74c3c;#ebedf0;#ebedf0" keyTimes="0;0.2747;1"/>
+			</circle><circle cx="582" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="582" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="582" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="582" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="582" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="582" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="582" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0;#ebedf0" keyTimes="0;0.2747;1"/>
+			</circle><circle cx="604" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="604" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="604" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="604" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="604" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="604" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="604" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="626" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="626" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="626" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="626" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="626" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="626" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="626" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="648" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="648" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="648" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="648" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="648" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="648" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="648" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="670" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="670" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="670" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="670" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="670" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="670" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="670" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="692" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="692" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="692" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="692" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="692" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="692" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="692" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0;#ebedf0" keyTimes="0;0.6438;1"/>
+			</circle><circle cx="714" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0;#ebedf0" keyTimes="0;0.2189;1"/>
+			</circle><circle cx="714" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="714" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="714" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="714" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="714" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="714" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#e74c3c;#ebedf0;#ebedf0" keyTimes="0;0.5837;0.6438;1"/>
+			</circle><circle cx="736" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#f1c40f;#ebedf0;#ebedf0" keyTimes="0;0.1245;0.2189;1"/>
+			</circle><circle cx="736" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="736" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="736" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="736" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="736" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="736" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#e74c3c;#ebedf0;#ebedf0" keyTimes="0;0.6438;1"/>
+			</circle><circle cx="758" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#f1c40f;#ebedf0;#ebedf0" keyTimes="0;0.2189;1"/>
+			</circle><circle cx="758" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="758" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="758" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="758" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="758" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="758" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="780" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="780" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="780" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="780" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="780" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="780" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="780" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="802" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="802" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="802" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="802" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="802" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="802" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="802" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="824" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="824" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="824" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="824" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="824" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="824" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="824" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="846" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="846" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="846" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="846" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="846" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="846" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="846" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="868" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="868" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="868" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="868" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="868" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="868" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="868" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="890" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="890" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="890" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="890" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="890" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="890" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="890" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="912" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="912" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="912" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="912" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="912" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="912" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="912" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="934" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="934" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="934" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="934" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="934" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0;#ebedf0" keyTimes="0;0.8112;1"/>
+			</circle><circle cx="934" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="934" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="956" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="956" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="956" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="956" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="956" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#e74c3c;#ebedf0;#ebedf0" keyTimes="0;0.8112;1"/>
+			</circle><circle cx="956" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#e74c3c;#ebedf0;#ebedf0" keyTimes="0;0.8112;1"/>
+			</circle><circle cx="956" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="978" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#e74c3c;#ebedf0" keyTimes="0;0.515;1"/>
+			</circle><circle cx="978" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="978" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#e74c3c;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="978" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="978" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="978" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="978" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1000" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1000" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1000" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1000" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1000" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1000" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1000" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1022" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1022" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1022" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1022" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1022" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1022" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1022" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1044" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1044" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1044" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1044" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1044" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1044" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1044" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1066" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1066" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1066" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1066" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1066" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1066" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1066" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1088" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1088" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1088" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1088" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1088" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1088" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1088" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1110" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1110" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1110" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1110" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1110" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1110" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1110" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1132" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1132" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1132" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1132" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1132" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1132" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1132" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1154" cy="25" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1154" cy="47" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1154" cy="69" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1154" cy="91" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1154" cy="113" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1154" cy="135" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="1154" cy="157" r="9" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</circle><circle cx="0" cy="0" r="9" fill="#f1c40f" opacity="0" stroke="white" stroke-width="1" stroke-opacity="0.4">
+				<animate attributeName="opacity" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.03;0.03;0.1245;0.1245;1" values="0;0;1;1;0;0"/>
+				<animateTransform attributeName="transform" type="translate" calcMode="linear"
+					dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.03;0.0343;0.0386;0.0429;0.0472;0.0515;0.0558;0.0601;0.0644;0.0687;0.073;0.0773;0.0815;0.0858;0.0901;0.0944;0.0987;0.103;0.1073;0.1116;0.1159;0.1202;1" values="583.0,199.0;583.0,199.0;589.9,191.8;596.9,184.6;603.8,177.4;610.8,170.2;617.7,163.0;624.7,155.8;631.6,148.6;638.6,141.5;645.5,134.3;652.5,127.1;659.4,119.9;666.4,112.7;673.3,105.5;680.3,98.3;687.2,91.1;694.1,83.9;701.1,76.7;708.0,69.5;715.0,62.3;721.9,55.1;728.9,47.9;728.9,47.9"/>
+			</circle><circle cx="0" cy="0" r="9" fill="#f1c40f" opacity="0" stroke="white" stroke-width="1" stroke-opacity="0.4">
+				<animate attributeName="opacity" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.1288;0.1288;0.2189;0.2189;1" values="0;0;1;1;0;0"/>
+				<animateTransform attributeName="transform" type="translate" calcMode="linear"
+					dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.1288;0.133;0.1373;0.1416;0.1459;0.1502;0.1545;0.1588;0.1631;0.1674;0.1717;0.176;0.1803;0.1845;0.1888;0.1931;0.1974;0.2017;0.206;0.2103;0.2146;1" values="583.0,199.0;583.0,199.0;589.2,191.1;595.3,183.2;601.5,175.4;607.6,167.5;613.8,159.6;619.9,151.7;626.1,143.8;632.3,136.0;638.4,128.1;644.6,120.2;650.7,112.3;656.9,104.4;663.0,96.6;669.2,88.7;675.3,80.8;681.5,72.9;687.7,65.0;693.8,57.2;700.0,49.3;706.1,41.4;706.1,41.4"/>
+			</circle><circle cx="0" cy="0" r="9" fill="#e74c3c" opacity="0" stroke="white" stroke-width="1" stroke-opacity="0.4">
+				<animate attributeName="opacity" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.2575;0.2575;0.2747;0.2747;1" values="0;0;1;1;0;0"/>
+				<animateTransform attributeName="transform" type="translate" calcMode="linear"
+					dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.2575;0.2618;0.2661;0.2704;1" values="583.0,199.0;583.0,199.0;580.9,189.2;578.8,179.4;576.8,169.7;576.8,169.7"/>
+			</circle><circle cx="0" cy="0" r="9" fill="#e74c3c" opacity="0" stroke="white" stroke-width="1" stroke-opacity="0.4">
+				<animate attributeName="opacity" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.3348;0.3348;0.515;0.515;1" values="0;0;1;1;0;0"/>
+				<animateTransform attributeName="transform" type="translate" calcMode="linear"
+					dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.3348;0.3391;0.3433;0.3476;0.3519;0.3562;0.3605;0.3648;0.3691;0.3734;0.3777;0.382;0.3863;0.3906;0.3948;0.3991;0.4034;0.4077;0.412;0.4163;0.4206;0.4249;0.4292;0.4335;0.4378;0.4421;0.4464;0.4506;0.4549;0.4592;0.4635;0.4678;0.4721;0.4764;0.4807;0.485;0.4893;0.4936;0.4979;0.5021;0.5064;0.5107;1" values="583.0,199.0;583.0,199.0;592.3,195.3;601.5,191.5;610.8,187.8;620.1,184.0;629.4,180.3;638.6,176.5;647.9,172.8;657.2,169.0;666.4,165.3;675.7,161.5;685.0,157.8;694.3,154.0;703.5,150.3;712.8,146.6;722.1,142.8;731.3,139.1;740.6,135.3;749.9,131.6;759.2,127.8;768.4,124.1;777.7,120.3;787.0,116.6;796.3,112.8;805.5,109.1;814.8,105.3;824.1,101.6;833.3,97.9;842.6,94.1;851.9,90.4;861.2,86.6;870.4,82.9;879.7,79.1;889.0,75.4;898.2,71.6;907.5,67.9;916.8,64.1;926.1,60.4;935.3,56.6;944.6,52.9;953.9,49.2;963.1,45.4;963.1,45.4"/>
+			</circle><circle cx="0" cy="0" r="9" fill="#e74c3c" opacity="0" stroke="white" stroke-width="1" stroke-opacity="0.4">
+				<animate attributeName="opacity" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.5193;0.5193;0.5837;0.5837;1" values="0;0;1;1;0;0"/>
+				<animateTransform attributeName="transform" type="translate" calcMode="linear"
+					dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.5193;0.5236;0.5279;0.5322;0.5365;0.5408;0.5451;0.5494;0.5536;0.5579;0.5622;0.5665;0.5708;0.5751;0.5794;1" values="583.0,199.0;583.0,199.0;592.4,195.6;601.8,192.2;611.2,188.7;620.6,185.3;630.0,181.9;639.4,178.5;648.8,175.1;658.2,171.6;667.6,168.2;677.0,164.8;686.4,161.4;695.8,158.0;705.2,154.5;714.6,151.1;714.6,151.1"/>
+			</circle><circle cx="0" cy="0" r="9" fill="#e74c3c" opacity="0" stroke="white" stroke-width="1" stroke-opacity="0.4">
+				<animate attributeName="opacity" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.588;0.588;0.6438;0.6438;1" values="0;0;1;1;0;0"/>
+				<animateTransform attributeName="transform" type="translate" calcMode="linear"
+					dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.588;0.5923;0.5966;0.6009;0.6052;0.6094;0.6137;0.618;0.6223;0.6266;0.6309;0.6352;0.6395;1" values="583.0,199.0;583.0,199.0;592.3,195.3;601.5,191.5;610.8,187.8;620.1,184.0;629.4,180.3;638.6,176.5;647.9,172.8;657.2,169.0;666.4,165.3;675.7,161.5;685.0,157.8;694.3,154.0;694.3,154.0"/>
+			</circle><circle cx="0" cy="0" r="9" fill="#e74c3c" opacity="0" stroke="white" stroke-width="1" stroke-opacity="0.4">
+				<animate attributeName="opacity" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.6524;0.6524;0.8112;0.8112;1" values="0;0;1;1;0;0"/>
+				<animateTransform attributeName="transform" type="translate" calcMode="linear"
+					dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.6524;0.6567;0.6609;0.6652;0.6695;0.6738;0.6781;0.6824;0.6867;0.691;0.6953;0.6996;0.7039;0.7082;0.7124;0.7167;0.721;0.7253;0.7296;0.7339;0.7382;0.7425;0.7468;0.7511;0.7554;0.7597;0.7639;0.7682;0.7725;0.7768;0.7811;0.7854;0.7897;0.794;0.7983;0.8026;0.8069;1" values="583.0,199.0;583.0,199.0;592.7,196.6;602.4,194.2;612.1,191.7;621.8,189.3;631.5,186.9;641.2,184.5;650.9,182.1;660.6,179.6;670.3,177.2;680.0,174.8;689.7,172.4;699.4,170.0;709.1,167.6;718.8,165.1;728.5,162.7;738.2,160.3;748.0,157.9;757.7,155.5;767.4,153.0;777.1,150.6;786.8,148.2;796.5,145.8;806.2,143.4;815.9,140.9;825.6,138.5;835.3,136.1;845.0,133.7;854.7,131.3;864.4,128.8;874.1,126.4;883.8,124.0;893.5,121.6;903.2,119.2;912.9,116.7;922.6,114.3;932.3,111.9;932.3,111.9"/>
+			</circle><circle cx="0" cy="0" r="9" fill="#e74c3c" opacity="0" stroke="white" stroke-width="1" stroke-opacity="0.4">
+				<animate attributeName="opacity" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.8197;0.8197;1" values="0;0;1;1"/>
+				<animateTransform attributeName="transform" type="translate" calcMode="linear"
+					dur="7800ms" repeatCount="indefinite"
+					keyTimes="0;0.8197;0.824;0.8283;0.8326;0.8369;0.8412;0.8455;0.8498;0.8541;0.8584;0.8627;0.867;0.8712;0.8755;0.8798;0.8841;0.8884;0.8927;0.897;0.9013;0.9056;0.9099;0.9142;0.9185;0.9227;0.927;0.9313;0.9356;0.9399;0.9442;0.9485;0.9528;0.9571;0.9614;0.9657;0.97;0.9742;0.9785;0.9828;0.9871;0.9914;0.9957;1" values="583.0,199.0;583.0,199.0;592.3,195.3;601.5,191.5;610.8,187.8;620.1,184.0;629.4,180.3;638.6,176.5;647.9,172.8;657.2,169.0;666.4,165.3;675.7,161.5;685.0,157.8;694.3,154.0;703.5,150.3;712.8,146.6;722.1,142.8;731.3,139.1;740.6,135.3;749.9,131.6;759.2,127.8;768.4,124.1;777.7,120.3;787.0,116.6;796.3,112.8;805.5,109.1;814.8,105.3;824.1,101.6;833.3,97.9;842.6,94.1;851.9,90.4;861.2,86.6;870.4,82.9;879.7,79.1;889.0,75.4;898.2,71.6;907.5,67.9;916.8,64.1;926.1,60.4;935.3,56.6;944.6,52.9;953.9,49.2;963.1,45.4;963.1,45.4"/>
+			</circle><circle cx="714.0" cy="25.0" r="4" fill="none" stroke="#f1c40f" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2189;0.2189;0.2532;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2189;0.2189;0.2532;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2189;0.2189;0.2532;1" values="0;0;1;0;0"/>
+				</circle><circle cx="736.0" cy="25.0" r="4" fill="none" stroke="#f1c40f" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2189;0.2189;0.2532;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2189;0.2189;0.2532;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2189;0.2189;0.2532;1" values="0;0;1;0;0"/>
+				</circle><circle cx="758.0" cy="25.0" r="4" fill="none" stroke="#f1c40f" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2189;0.2189;0.2532;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2189;0.2189;0.2532;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2189;0.2189;0.2532;1" values="0;0;1;0;0"/>
+				</circle><circle cx="582.0" cy="157.0" r="4" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="0;0;1;0;0"/>
+				</circle><circle cx="560.0" cy="157.0" r="4" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="0;0;1;0;0"/>
+				</circle><circle cx="560.0" cy="135.0" r="4" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="0;0;1;0;0"/>
+				</circle><circle cx="560.0" cy="113.0" r="4" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="0;0;1;0;0"/>
+				</circle><circle cx="560.0" cy="91.0" r="4" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.2747;0.2747;0.309;1" values="0;0;1;0;0"/>
+				</circle><circle cx="692.0" cy="157.0" r="4" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.6438;0.6438;0.6781;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.6438;0.6438;0.6781;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.6438;0.6438;0.6781;1" values="0;0;1;0;0"/>
+				</circle><circle cx="714.0" cy="157.0" r="4" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.6438;0.6438;0.6781;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.6438;0.6438;0.6781;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.6438;0.6438;0.6781;1" values="0;0;1;0;0"/>
+				</circle><circle cx="736.0" cy="157.0" r="4" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.6438;0.6438;0.6781;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.6438;0.6438;0.6781;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.6438;0.6438;0.6781;1" values="0;0;1;0;0"/>
+				</circle><circle cx="934.0" cy="113.0" r="4" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.8112;0.8112;0.8455;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.8112;0.8112;0.8455;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.8112;0.8112;0.8455;1" values="0;0;1;0;0"/>
+				</circle><circle cx="956.0" cy="113.0" r="4" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.8112;0.8112;0.8455;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.8112;0.8112;0.8455;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.8112;0.8112;0.8455;1" values="0;0;1;0;0"/>
+				</circle><circle cx="956.0" cy="135.0" r="4" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0">
+					<animate attributeName="r"            calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.8112;0.8112;0.8455;1" values="4;4;4;20;20"/>
+					<animate attributeName="stroke-width" calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.8112;0.8112;0.8455;1" values="2;2;2;0;0"/>
+					<animate attributeName="opacity"      calcMode="linear" dur="7800ms" repeatCount="indefinite" keyTimes="0;0.8112;0.8112;0.8455;1" values="0;0;1;0;0"/>
+				</circle><circle cx="583.0" cy="199.0" r="10" fill="#f1c40f" stroke="white" stroke-width="2">
+			<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+				values="#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c" keyTimes="0;0.0043;0.0086;0.0129;0.0172;0.0215;0.0258;0.03;0.0343;0.0386;0.0429;0.0472;0.0515;0.0558;0.0601;0.0644;0.0687;0.073;0.0773;0.0815;0.0858;0.0901;0.0944;0.0987;0.103;0.1073;0.1116;0.1159;0.1202;0.1245;0.1288;0.133;0.1373;0.1416;0.1459;0.1502;0.1545;0.1588;0.1631;0.1674;0.1717;0.176;0.1803;0.1845;0.1888;0.1931;0.1974;0.2017;0.206;0.2103;0.2146;0.2189;0.2232;0.2275;0.2318;0.2361;0.2403;0.2446;0.2489;0.2532;0.2575;0.2618;0.2661;0.2704;0.2747;0.279;0.2833;0.2876;0.2918;0.2961;0.3004;0.3047;0.309;0.3133;0.3176;0.3219;0.3262;0.3305;0.3348;0.3391;0.3433;0.3476;0.3519;0.3562;0.3605;0.3648;0.3691;0.3734;0.3777;0.382;0.3863;0.3906;0.3948;0.3991;0.4034;0.4077;0.412;0.4163;0.4206;0.4249;0.4292;0.4335;0.4378;0.4421;0.4464;0.4506;0.4549;0.4592;0.4635;0.4678;0.4721;0.4764;0.4807;0.485;0.4893;0.4936;0.4979;0.5021;0.5064;0.5107;0.515;0.5193;0.5236;0.5279;0.5322;0.5365;0.5408;0.5451;0.5494;0.5536;0.5579;0.5622;0.5665;0.5708;0.5751;0.5794;0.5837;0.588;0.5923;0.5966;0.6009;0.6052;0.6094;0.6137;0.618;0.6223;0.6266;0.6309;0.6352;0.6395;0.6438;0.6481;0.6524;0.6567;0.6609;0.6652;0.6695;0.6738;0.6781;0.6824;0.6867;0.691;0.6953;0.6996;0.7039;0.7082;0.7124;0.7167;0.721;0.7253;0.7296;0.7339;0.7382;0.7425;0.7468;0.7511;0.7554;0.7597;0.7639;0.7682;0.7725;0.7768;0.7811;0.7854;0.7897;0.794;0.7983;0.8026;0.8069;0.8112;0.8155;0.8197;0.824;0.8283;0.8326;0.8369;0.8412;0.8455;0.8498;0.8541;0.8584;0.8627;0.867;0.8712;0.8755;0.8798;0.8841;0.8884;0.8927;0.897;0.9013;0.9056;0.9099;0.9142;0.9185;0.9227;0.927;0.9313;0.9356;0.9399;0.9442;0.9485;0.9528;0.9571;0.9614;0.9657;0.97;0.9742;0.9785;0.9828;0.9871;0.9914;0.9957;1"/>
+			<animateTransform attributeName="transform" type="rotate" calcMode="linear"
+				dur="7800ms" repeatCount="indefinite"
+				keyTimes="0;0.0043;0.0086;0.0129;0.0172;0.0215;0.0258;0.03;0.0343;0.0386;0.0429;0.0472;0.0515;0.0558;0.0601;0.0644;0.0687;0.073;0.0773;0.0815;0.0858;0.0901;0.0944;0.0987;0.103;0.1073;0.1116;0.1159;0.1202;0.1245;0.1288;0.133;0.1373;0.1416;0.1459;0.1502;0.1545;0.1588;0.1631;0.1674;0.1717;0.176;0.1803;0.1845;0.1888;0.1931;0.1974;0.2017;0.206;0.2103;0.2146;0.2189;0.2232;0.2275;0.2318;0.2361;0.2403;0.2446;0.2489;0.2532;0.2575;0.2618;0.2661;0.2704;0.2747;0.279;0.2833;0.2876;0.2918;0.2961;0.3004;0.3047;0.309;0.3133;0.3176;0.3219;0.3262;0.3305;0.3348;0.3391;0.3433;0.3476;0.3519;0.3562;0.3605;0.3648;0.3691;0.3734;0.3777;0.382;0.3863;0.3906;0.3948;0.3991;0.4034;0.4077;0.412;0.4163;0.4206;0.4249;0.4292;0.4335;0.4378;0.4421;0.4464;0.4506;0.4549;0.4592;0.4635;0.4678;0.4721;0.4764;0.4807;0.485;0.4893;0.4936;0.4979;0.5021;0.5064;0.5107;0.515;0.5193;0.5236;0.5279;0.5322;0.5365;0.5408;0.5451;0.5494;0.5536;0.5579;0.5622;0.5665;0.5708;0.5751;0.5794;0.5837;0.588;0.5923;0.5966;0.6009;0.6052;0.6094;0.6137;0.618;0.6223;0.6266;0.6309;0.6352;0.6395;0.6438;0.6481;0.6524;0.6567;0.6609;0.6652;0.6695;0.6738;0.6781;0.6824;0.6867;0.691;0.6953;0.6996;0.7039;0.7082;0.7124;0.7167;0.721;0.7253;0.7296;0.7339;0.7382;0.7425;0.7468;0.7511;0.7554;0.7597;0.7639;0.7682;0.7725;0.7768;0.7811;0.7854;0.7897;0.794;0.7983;0.8026;0.8069;0.8112;0.8155;0.8197;0.824;0.8283;0.8326;0.8369;0.8412;0.8455;0.8498;0.8541;0.8584;0.8627;0.867;0.8712;0.8755;0.8798;0.8841;0.8884;0.8927;0.897;0.9013;0.9056;0.9099;0.9142;0.9185;0.9227;0.927;0.9313;0.9356;0.9399;0.9442;0.9485;0.9528;0.9571;0.9614;0.9657;0.97;0.9742;0.9785;0.9828;0.9871;0.9914;0.9957;1" values="6.0 583.0 199.0;12.0 583.0 199.0;18.0 583.0 199.0;24.0 583.0 199.0;30.0 583.0 199.0;36.0 583.0 199.0;42.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;32.0 583.0 199.0;26.0 583.0 199.0;20.0 583.0 199.0;14.0 583.0 199.0;8.0 583.0 199.0;2.0 583.0 199.0;-4.0 583.0 199.0;-10.0 583.0 199.0;-12.0 583.0 199.0;-12.0 583.0 199.0;-12.0 583.0 199.0;-12.0 583.0 199.0;-12.0 583.0 199.0;-6.0 583.0 199.0;0.0 583.0 199.0;6.0 583.0 199.0;12.0 583.0 199.0;18.0 583.0 199.0;24.0 583.0 199.0;30.0 583.0 199.0;36.0 583.0 199.0;42.0 583.0 199.0;48.0 583.0 199.0;54.0 583.0 199.0;60.0 583.0 199.0;66.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;74.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;70.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0"/>
+		</circle><line x1="583" y1="199" x2="583" y2="177" stroke="#cccccc" stroke-width="6" stroke-linecap="round">
+			<animateTransform attributeName="transform" type="rotate" calcMode="linear"
+				dur="7800ms" repeatCount="indefinite"
+				keyTimes="0;0.0043;0.0086;0.0129;0.0172;0.0215;0.0258;0.03;0.0343;0.0386;0.0429;0.0472;0.0515;0.0558;0.0601;0.0644;0.0687;0.073;0.0773;0.0815;0.0858;0.0901;0.0944;0.0987;0.103;0.1073;0.1116;0.1159;0.1202;0.1245;0.1288;0.133;0.1373;0.1416;0.1459;0.1502;0.1545;0.1588;0.1631;0.1674;0.1717;0.176;0.1803;0.1845;0.1888;0.1931;0.1974;0.2017;0.206;0.2103;0.2146;0.2189;0.2232;0.2275;0.2318;0.2361;0.2403;0.2446;0.2489;0.2532;0.2575;0.2618;0.2661;0.2704;0.2747;0.279;0.2833;0.2876;0.2918;0.2961;0.3004;0.3047;0.309;0.3133;0.3176;0.3219;0.3262;0.3305;0.3348;0.3391;0.3433;0.3476;0.3519;0.3562;0.3605;0.3648;0.3691;0.3734;0.3777;0.382;0.3863;0.3906;0.3948;0.3991;0.4034;0.4077;0.412;0.4163;0.4206;0.4249;0.4292;0.4335;0.4378;0.4421;0.4464;0.4506;0.4549;0.4592;0.4635;0.4678;0.4721;0.4764;0.4807;0.485;0.4893;0.4936;0.4979;0.5021;0.5064;0.5107;0.515;0.5193;0.5236;0.5279;0.5322;0.5365;0.5408;0.5451;0.5494;0.5536;0.5579;0.5622;0.5665;0.5708;0.5751;0.5794;0.5837;0.588;0.5923;0.5966;0.6009;0.6052;0.6094;0.6137;0.618;0.6223;0.6266;0.6309;0.6352;0.6395;0.6438;0.6481;0.6524;0.6567;0.6609;0.6652;0.6695;0.6738;0.6781;0.6824;0.6867;0.691;0.6953;0.6996;0.7039;0.7082;0.7124;0.7167;0.721;0.7253;0.7296;0.7339;0.7382;0.7425;0.7468;0.7511;0.7554;0.7597;0.7639;0.7682;0.7725;0.7768;0.7811;0.7854;0.7897;0.794;0.7983;0.8026;0.8069;0.8112;0.8155;0.8197;0.824;0.8283;0.8326;0.8369;0.8412;0.8455;0.8498;0.8541;0.8584;0.8627;0.867;0.8712;0.8755;0.8798;0.8841;0.8884;0.8927;0.897;0.9013;0.9056;0.9099;0.9142;0.9185;0.9227;0.927;0.9313;0.9356;0.9399;0.9442;0.9485;0.9528;0.9571;0.9614;0.9657;0.97;0.9742;0.9785;0.9828;0.9871;0.9914;0.9957;1" values="6.0 583.0 199.0;12.0 583.0 199.0;18.0 583.0 199.0;24.0 583.0 199.0;30.0 583.0 199.0;36.0 583.0 199.0;42.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;44.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;38.0 583.0 199.0;32.0 583.0 199.0;26.0 583.0 199.0;20.0 583.0 199.0;14.0 583.0 199.0;8.0 583.0 199.0;2.0 583.0 199.0;-4.0 583.0 199.0;-10.0 583.0 199.0;-12.0 583.0 199.0;-12.0 583.0 199.0;-12.0 583.0 199.0;-12.0 583.0 199.0;-12.0 583.0 199.0;-6.0 583.0 199.0;0.0 583.0 199.0;6.0 583.0 199.0;12.0 583.0 199.0;18.0 583.0 199.0;24.0 583.0 199.0;30.0 583.0 199.0;36.0 583.0 199.0;42.0 583.0 199.0;48.0 583.0 199.0;54.0 583.0 199.0;60.0 583.0 199.0;66.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;70.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;74.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;76.0 583.0 199.0;70.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0;68.0 583.0 199.0"/>
+		</line><text x="611.0" y="183.0" text-anchor="middle" font-size="8" fill="#57606a" opacity="0.8">NEXT</text><circle cx="611.0" cy="199.0" r="9" fill="#f1c40f" stroke="white" stroke-width="1" stroke-opacity="0.5">
+			<animate attributeName="fill" calcMode="discrete" dur="7800ms" repeatCount="indefinite"
+				values="#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#f1c40f;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c;#e74c3c" keyTimes="0;0.0043;0.0086;0.0129;0.0172;0.0215;0.0258;0.03;0.0343;0.0386;0.0429;0.0472;0.0515;0.0558;0.0601;0.0644;0.0687;0.073;0.0773;0.0815;0.0858;0.0901;0.0944;0.0987;0.103;0.1073;0.1116;0.1159;0.1202;0.1245;0.1288;0.133;0.1373;0.1416;0.1459;0.1502;0.1545;0.1588;0.1631;0.1674;0.1717;0.176;0.1803;0.1845;0.1888;0.1931;0.1974;0.2017;0.206;0.2103;0.2146;0.2189;0.2232;0.2275;0.2318;0.2361;0.2403;0.2446;0.2489;0.2532;0.2575;0.2618;0.2661;0.2704;0.2747;0.279;0.2833;0.2876;0.2918;0.2961;0.3004;0.3047;0.309;0.3133;0.3176;0.3219;0.3262;0.3305;0.3348;0.3391;0.3433;0.3476;0.3519;0.3562;0.3605;0.3648;0.3691;0.3734;0.3777;0.382;0.3863;0.3906;0.3948;0.3991;0.4034;0.4077;0.412;0.4163;0.4206;0.4249;0.4292;0.4335;0.4378;0.4421;0.4464;0.4506;0.4549;0.4592;0.4635;0.4678;0.4721;0.4764;0.4807;0.485;0.4893;0.4936;0.4979;0.5021;0.5064;0.5107;0.515;0.5193;0.5236;0.5279;0.5322;0.5365;0.5408;0.5451;0.5494;0.5536;0.5579;0.5622;0.5665;0.5708;0.5751;0.5794;0.5837;0.588;0.5923;0.5966;0.6009;0.6052;0.6094;0.6137;0.618;0.6223;0.6266;0.6309;0.6352;0.6395;0.6438;0.6481;0.6524;0.6567;0.6609;0.6652;0.6695;0.6738;0.6781;0.6824;0.6867;0.691;0.6953;0.6996;0.7039;0.7082;0.7124;0.7167;0.721;0.7253;0.7296;0.7339;0.7382;0.7425;0.7468;0.7511;0.7554;0.7597;0.7639;0.7682;0.7725;0.7768;0.7811;0.7854;0.7897;0.794;0.7983;0.8026;0.8069;0.8112;0.8155;0.8197;0.824;0.8283;0.8326;0.8369;0.8412;0.8455;0.8498;0.8541;0.8584;0.8627;0.867;0.8712;0.8755;0.8798;0.8841;0.8884;0.8927;0.897;0.9013;0.9056;0.9099;0.9142;0.9185;0.9227;0.927;0.9313;0.9356;0.9399;0.9442;0.9485;0.9528;0.9571;0.9614;0.9657;0.97;0.9742;0.9785;0.9828;0.9871;0.9914;0.9957;1"/>
+		</circle></svg>
